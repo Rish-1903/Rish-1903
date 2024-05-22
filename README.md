@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rish-1903
 - 👀 I’m interested in Artificial Intelligence,Machine Learning,Deep Learning,Quantam Computing and Robotics
-- 🌱 I’m currently learning AI and ML
-- 💞️ I’m looking to collaborate on various open source project on Artificial Intelligence and Machine Learning and int the process enhance my skills 
+- 🌱 I’m currently working on AI/ML especially in Computer Vision
+- 💞️ I’m looking for various research opportunities 
 - 📫 How to reach me https://www.linkedin.com/in/rishabh-dang-1b167625a
 
 <!---
